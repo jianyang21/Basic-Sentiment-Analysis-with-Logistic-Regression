@@ -27,7 +27,7 @@ This repository contains a simple sentiment analysis implementation using Logist
 
 2. **Run the Code**: Execute the script to see the sentiment analysis in action.
     ```bash
-    python sentiment_analysis.py
+    python SentimentAnalysis.py
     ```
 
 ## Notes
